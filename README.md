@@ -2,6 +2,8 @@
 
 A collection of certifications completed as part of the IBM DevOps and Software Engineering Professional Certificate.
 
+**💡 *Note: To view any PDF certificate, click the file → then click “Download” or “View raw” to open it.***
+
 ## 📜 Certificates (14 of 15 Completed)
 
 1. [Introduction to DevOps](./certificates/01_Introduction_to_DevOps.pdf)
